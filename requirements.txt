@@ -16,6 +16,7 @@ jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
+matplotlib==3.10.0
 mdurl==0.1.2
 narwhals==1.21.1
 numpy==2.0.2
@@ -44,3 +45,4 @@ tornado==6.4.2
 typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.3.0
+
