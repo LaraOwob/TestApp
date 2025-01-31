@@ -11,7 +11,6 @@ import base64
 import gurobipy as gp
 from gurobipy import Model, GRB, quicksum
 from itertools import combinations
-import seaborn as sns
 
 
 def solve_gurobi_scheduling_problem(df, machine_columns,time_limit):
